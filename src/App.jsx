@@ -38,7 +38,7 @@ const App = () => {
         <a href="#" className="btn">Hire</a>
         <a href="#contact" className="btn">Contact</a>
       </div>
-      <button><a href='#'download={""}></a>Download CV</button>
+      <button><a href="./src/images/photo.png"download={""}></a>Download CV</button>
       
         </div>
       </div>
